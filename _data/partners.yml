@@ -1,0 +1,60 @@
+
+- name: TU Delft
+  url:  http://www.tudelft.nl
+  img:  tud.png
+
+- name: Universiteit Twente
+  url:  http://www.utwente.nl
+  img:  utwente.png
+
+- name: STW
+  url:  http://www.stw.nl
+  img:  stw.png
+
+- name: Cyclomedia
+  url:  http://www.cyclomedia.com/nl/
+  img:  cyclomedia.png
+
+- name: Studio Veiligheid
+  url:  http://www.studioveiligheid.net/
+  img:  studio_veiligheid.png
+
+- name: Leap3D
+  url:  http://leap3d.eu/
+  img:  leap3d.png
+
+- name: VNOG
+  url:  http://www.vnog.nl/
+  img:  vnog.jpg
+
+- name: VRHM
+  url:  http://www.vrhm.nl/
+  img:  vrhm.jpeg
+
+- name: Crotec
+  url:  http://www.crotec.nl/
+  img:  crotec.jpg
+
+- name: OGC
+  url:  http://www.opengeospatial.org/
+  img:  OGC.png
+
+- name: VRR
+  url:  http://www.veiligheidsregio-rr.nl/
+  img:  vrr.jpg
+
+- name: VRK
+  url:  http://www.vrk.nl/
+  img:  vrk.gif
+
+- name: VRT
+  url:	http://www.vrtwente.nl/Paginas/default.aspx
+  img:  vrtwente.png
+
+- name: CGI
+  url:	http://www.cgi.com/en/
+  img:  cgi.png
+
+- name: VRLN
+  url:  http://www.vrln.nl/Pages/default.aspx
+  img:  vrln.gif
