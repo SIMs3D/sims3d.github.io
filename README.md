@@ -1,8 +1,8 @@
-# www.sims3d.nl website
+# www.sims3d.net website
 
 Uses [Jekyll](http://www.jekyllrb.com) to generate static pages.
 
-It is automatically linked to `www.sims3d.nl`, thus if the master branch is updated then the website is updated.
+It is automatically linked to `www.sims3d.net`, thus if the master branch is updated then the website is updated.
 
 
 ## Adding news posts
