@@ -1,8 +1,8 @@
-# www.3d4em.nl website
+# www.sims3d.nl website
 
 Uses [Jekyll](http://www.jekyllrb.com) to generate static pages.
 
-It is automatically linked to `www.3d4em.nl`, thus if the master branch is updated then the website is updated.
+It is automatically linked to `www.sims3d.nl`, thus if the master branch is updated then the website is updated.
 
 
 ## Adding news posts
@@ -12,10 +12,10 @@ Each blog/news post is a [Markdown](http://daringfireball.net/projects/markdown/
 ```
 ---
 layout: post
-title:  "Testing..1..2..testing"
+title:  "Check ... 1, 2!"
 categories: news
-date:   2014-11-20
-author: John Smith
+date:   2015-10-15
+author: Abdoulaye Diakité
 ---
 ```
 
