@@ -3,7 +3,7 @@ layout: page
 title: Research line 2 
 ---
 
-## Smart spatial space subdivision for indoor navigation
+## Smart space subdivision for indoor navigation
 
 <div class="row">
   <div class="col-sm-12 hidden-xs nopadding"><img class="img-responsive" src="{{ "img/rl2.png" | prepend: site.baseurl }}"></div>
