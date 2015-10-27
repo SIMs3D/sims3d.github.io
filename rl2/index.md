@@ -13,9 +13,9 @@ title: Research line 2
 <div align="justify">
 
 To be able to provide navigation and guidance, the models (geometry and semantics) have to be enhanced with connectivity information, i.e. a network has to be created. One approach to create such a network is to apply
-Poincaré Duality, according to which each node represents a space and an edge depicts the (connectivity) link between spaces. This concept is central for IndoorGML,
-an OGC candidate standard (http://www.opengeospatial.org/projects/groups/indoorgmlswg). By changing the space subdivision, different networks can be created completely automatically. The semantics and the
-properties attached to the geometric spaces can be propagated to the nodes and the edges of the network. 
+Poincaré Duality, according to which each node represents a space and an edge depicts the (connectivity) link between spaces. This concept is central for 
+<a href="http://www.opengeospatial.org/projects/groups/indoorgmlswg">IndoorGML</a>, an OGC candidate standard. By changing the space subdivision, different networks can be created completely automatically. 
+The semantics and the properties attached to the geometric spaces can be propagated to the nodes and the edges of the network. 
 
 <br> <br>
 
