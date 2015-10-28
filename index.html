@@ -36,6 +36,33 @@ title: SIMs3D project
 	  <br>
 	  <img class="img-responsive" src="/img/cover/overview2.png" alt="" height="300" width="300">
     </div>
+
+	<div class="container">
+ 		<div class="row">
+    		<div class="col-md-6">
+	    		<div class="panel panel-default">
+		    		<div class="panel-heading">
+		    		<h4>Latest news <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss"></i></a></h4>
+		    		</div>
+		    		<div class="panel-body">
+		      			<div class="firstpost">
+			      		<a href="{{ site.posts[0].url | prepend: site.baseurl }}">{{ site.posts[0].title }}</a>
+			      		<br><span>{{ site.posts[0].date | post.date | date_to_string }}</span>
+			      		<br />{{ site.posts[0].excerpt | strip_html }}
+			      		<br /><a href="{{ site.posts[0].url | prepend: site.baseurl }}">read more</a>
+			      		<hr />
+		      		</div>
+		      		<ul class="posts">
+		        	{% for post in site.posts offset:1 limit:5 %}
+		          	<li><span>{{ post.date | date_to_string }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+		        	{% endfor %}
+		      		</ul>
+		      		<a href="{{ site.baseurl }}/news">All news</a>
+		    	</div>
+	    	</div>
+    	</div>
+  	</div>
+	
   </div>
   
   <hr class="featurette-divider">
@@ -44,7 +71,7 @@ title: SIMs3D project
   <div class="row">
     <div class="col-sm-6 col-md-4">
       <a href="/rl1" class="thumbnail">
-        <img src="/img/cover/rl1.png" alt="">
+        <img src="/img/cover/rl1.png" >
       </a>  
       <div class="caption">
         <h3>Reconstruction of semantically rich 3D building models from point clouds</h3>
@@ -53,7 +80,7 @@ title: SIMs3D project
     </div>
     <div class="col-sm-6 col-md-4">
       <a href="/rl2" class="thumbnail">
-        <img src="/img/cover/rl2.png" alt="">
+        <img src="/img/cover/rl2.png" >
       </a>  
       <div class="caption">
         <h3>Smart space subdivision for indoor navigation</h3>
@@ -61,9 +88,5 @@ title: SIMs3D project
       </div>
     </div>
   </div>
-
-  <hr>
-
-
-
 </div>
+
