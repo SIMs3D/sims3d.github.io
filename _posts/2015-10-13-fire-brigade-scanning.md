@@ -7,6 +7,7 @@ author: Abdoulaye Diakité
 ---
 
 <div align="justify">
+<font size="4">
 
 On tuesday, 13th of October, people from TU Delft, University of Twente and Leap3D went to a fire brigade in Berkel en Rodenrijs to perform some laser scanning of the building.
 The goal is to produce a 3D model that can be used as an example model for tools developed in the SIMs3D project.
@@ -28,5 +29,5 @@ The goal is to produce a 3D model that can be used as an example model for tools
 
 The performance of the ZEB1 was amazing. The entire building could be scanned in one hour and a half. The resuting point cloud was also quite convincing.
 
-
+</font>
 </div>

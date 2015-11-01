@@ -7,6 +7,7 @@ author: Abdoulaye Diakité
 ---
 
 <div align="justify">
+<font size="4">
 
 <div class="row">
   <div class="col-sm-12 col-md-4">
@@ -94,4 +95,5 @@ provided with the tablet). We will now study how to perform registration on all 
 
 A deeper study including more details, stats and the results of the other scanners is coming soon.
 
+</font>
 </div>
