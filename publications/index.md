@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Publications
 permalink: /publications/
@@ -9,13 +9,24 @@ permalink: /publications/
 <br>
 
 <font size="4">
+<b>Maps4Society SIMs3D Project Proposal.</b>
+</font>
+Sisi Zlatanova & George Vosselman.
+<br>TU Delft & University of Twente.
+
+<br>
+<br>
+
+<a href="pdfs/2015/M4S_SIMs3D_fullproposal_web.pdf">Download (PDF)</a>
+
+<font size="4">
 <b>Slimme 3D Indoormodellen ter Ondersteuning van Crisismanagement in Grote Openbare Gebouwen.</b>
 </font>
 Sisi Zlatanova, George Vosselman, Kourosh Koshelham, Rob Peters, Bart Beers, Robert Voûte, Bart De Lathouwer, Matty Lakerveld, Henk Djurrema en Gerke Spaling.
-<br>Informatievoorziening bij Veiligheidsregio's 2015, Brandweer Nederland en Tu Delft.
+<br>Informatievoorziening bij Veiligheidsregio's 2015, Brandweer Nederland en TU Delft.
 
 <a href="pdfs/2015/Slimme_3D_Indoormodellen.pdf">Download (PDF)</a>
 
 
-
+<br>
 
