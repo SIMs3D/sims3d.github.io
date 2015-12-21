@@ -21,8 +21,7 @@ permalink: /publications/
 <b>Slimme 3D Indoormodellen ter Ondersteuning van Crisismanagement in Grote Openbare Gebouwen.</b>
 </font>
 <br>Sisi Zlatanova, George Vosselman, Kourosh Koshelham, Rob Peters, Bart Beers, Robert Voûte, Bart De Lathouwer, Matty Lakerveld, Henk Djurrema en Gerke Spaling.
-<br>Informatievoorziening bij Veiligheidsregio's 2015, Brandweer Nederland en TU Delft.
-
+<br>Informatievoorziening bij Veiligheidsregio's 2015, Brandweer Nederland en TU Delft. 
 <a href="pdfs/2015/Slimme_3D_Indoormodellen.pdf">Download (PDF)</a>
 
 
