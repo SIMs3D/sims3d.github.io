@@ -5,7 +5,3 @@ permalink: /meetings/
 ---
 
 Coming soon...
-
-
-
-
