@@ -26,3 +26,10 @@ permalink: /publications/
 
 <br>
 
+<font size="4">
+<b>SIMs3D: 3D indoor space subdivision for navigation (Slides).</b>
+</font>
+<br>Abdoulaye A. Diakité, Sisi Zlatanova.
+<br>GeoBuzz 2015, 's-Hertogenbosch (The Netherlands). 
+<br><a href="pdfs/2015/SIMs3D_GeoBuzz2015.pdf">Download (PDF)</a>
+
