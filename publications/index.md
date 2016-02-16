@@ -32,4 +32,3 @@ permalink: /publications/
 <br>Abdoulaye A. Diakité, Sisi Zlatanova.
 <br>GeoBuzz 2015, 's-Hertogenbosch (The Netherlands). 
 <br><a href="pdfs/2015/SIMs3D_GeoBuzz2015.pdf">Download (PDF)</a>
-
