@@ -6,6 +6,8 @@ permalink: /meetings/
 
 <font size="6"><b>Kick-off Meeting, 3rd September 2015</b></font>
 
+<br>
+
 <font size="4">
 <b>Smart 3D indoor models to support crisis management in large public buildings (SIMs3D).</b>
 </font>

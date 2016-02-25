@@ -8,6 +8,8 @@ This page collects all the parallel works related to the SIMs3D Project.
 
 <font size="6"><b>Msc Thesis Projets</b></font>
 
+<br>
+
 <font size="4">
 <b>Automatic space subdivision for multi-storey pathfinding on a 3D point cloud using an octree.</b>
 </font>
@@ -61,3 +63,9 @@ Martijn Koopman.
 </font>
 Tom van der Meer.
 <br><a href="files/indoorlab/Ignite 3D-indoor brandweer.pptx">Download (PPTX)</a>
+
+<font size="4">
+<b>Automatic space subdivision for multi-story pathfinding on a 3D point cloud using an octree.</b>
+</font>
+Florian W. Fichtner.
+<br><a href="files/indoorlab/160223_Indoor3DPresentation.pptx">Download (PPTX)</a>

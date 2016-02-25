@@ -12,5 +12,6 @@ The research project has officially started on September 3rd 2015 with kickoff m
 The parters from the technical side and those from the user side could discuss about the interesting tracks to explore and the possible developments 
 to reach these goals. The team in Twente presented ongoing works and plans regarding the modeling of 3D models from points cloud and the team from Delft presented 
 works and plans about the space subdivision. 
+The presentations are available at the <a href="http://www.sims3d.net/meetings/">meetings</a> page. 
 </font>
 </div>
