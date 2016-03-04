@@ -69,3 +69,9 @@ Tom van der Meer.
 </font>
 Florian W. Fichtner.
 <br><a href="files/indoorlab/160223_Indoor3DPresentation.pptx">Download (PPTX)</a>
+
+<font size="4">
+<b>Smart Space Subdivision of Polyhedral Models for Indoor Navigation.</b>
+</font>
+Abdoulaye A. Diakité.
+<br><a href="files/indoorlab/IndoorLab_Abdou.pdf">Download (PDF)</a>
