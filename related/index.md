@@ -25,7 +25,7 @@ Martijn Koopman.
 <font size="4">
 <b>The relation between the computational effort and path length of A* pathfinding in an octree representation of an indoor point cloud.</b>
 </font>
-Shuangfeng Wei.
+Olivier Rodenberg.
 <br><a href="files/mscproposals/Olivier_Rodenberg.pdf">Download (PDF)</a>
 
 <font size="4">
@@ -62,16 +62,28 @@ Martijn Koopman.
 <b>3D Indoor models for the fire department: an investigation of the possibilities.</b>
 </font>
 Tom van der Meer.
-<br><a href="files/indoorlab/Ignite 3D-indoor brandweer.pptx">Download (PPTX)</a>
+<br><a href="files/indoorlab/Ignite 3D-indoor brandweer.pdf">Download (PDF)</a>
+
+<font size="4">
+<b>The relation between the computational effort and path length of A* pathfinding in an octree representation of an indoor point cloud.</b>
+</font>
+Olivier Rodenberg.
+<br><a href="files/indoorlab/Olivier Rodenberg.pdf">Download (PDF)</a>
 
 <font size="4">
 <b>Automatic space subdivision for multi-story pathfinding on a 3D point cloud using an octree.</b>
 </font>
 Florian W. Fichtner.
-<br><a href="files/indoorlab/160223_Indoor3DPresentation.pptx">Download (PPTX)</a>
+<br><a href="files/indoorlab/160223_Indoor3DPresentation.pdf">Download (PDF)</a>
 
 <font size="4">
 <b>Smart Space Subdivision of Polyhedral Models for Indoor Navigation.</b>
 </font>
 Abdoulaye A. Diakité.
 <br><a href="files/indoorlab/IndoorLab_Abdou.pdf">Download (PDF)</a>
+
+<font size="4">
+<b>Indoor 3D Model Reconstruction to Support Disaster Management in Large Buildings.</b>
+</font>
+Shayan Nikoohemat.
+<br><a href="files/indoorlab/qualifier presenation_Feb2016_TUD version.pptx">Download (PPTX)</a>

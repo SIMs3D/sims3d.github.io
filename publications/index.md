@@ -29,6 +29,13 @@ Tom van der Meer.
 <br>Stage-onderzoek Nationale GI Minor.
 <br><a href="pdfs/2016/3D-indoormodellen voor de Brandweer.pdf">Download (PDF)</a>
 
+<font size="4">
+<b> 3D indoor models for the fire department.</b>
+</font>
+Sisi Zlatanova & Abdoulaye Diakité (TU Delft).
+<br> SWG IndoorGML at the OGC TC meeting, 8 March 2016, Washington (USA).
+<br><a href="pdfs/2015/SIMs3D_OGC.pdf">Download (PDF)</a>
+
 <br>
 <font size="5"><b>2015</b></font>
 <br>
@@ -43,6 +50,6 @@ Sisi Zlatanova & George Vosselman.
 <font size="4">
 <b>SIMs3D: 3D indoor space subdivision for navigation (Slides).</b>
 </font>
-Abdoulaye A. Diakité, Sisi Zlatanova.
+Abdoulaye A. Diakité, Sisi Zlatanova (TU Delft).
 <br>GeoBuzz 2015, 's-Hertogenbosch (The Netherlands). 
 <br><a href="pdfs/2015/SIMs3D_GeoBuzz2015.pdf">Download (PDF)</a>
