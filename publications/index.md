@@ -34,7 +34,7 @@ Tom van der Meer.
 </font>
 Sisi Zlatanova & Abdoulaye Diakité (TU Delft).
 <br> SWG IndoorGML at the OGC TC meeting, 8 March 2016, Washington (USA).
-<br><a href="pdfs/2015/SIMs3D_OGC.pdf">Download (PDF)</a>
+<br><a href="pdfs/2016/SIMs3D_OGC.pdf">Download (PDF)</a>
 
 <br>
 <font size="5"><b>2015</b></font>
