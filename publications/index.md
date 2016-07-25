@@ -54,6 +54,20 @@ Sisi Zlatanova & Abdoulaye Diakité (TU Delft).
 <br> SWG IndoorGML at the OGC TC meeting, 8 March 2016, Washington (USA).
 <br><a href="pdfs/2016/SIMs3D_OGC.pdf">Download (PDF)</a>
 
+<font size="4">
+<b> Indoor Navigatie: Onderzoeksresultaten en innovatie.</b>
+</font>
+Robert Voûte (CGI).
+<br> GeoCongress, 30 June 2016, Zoetermeer (The Netherlands).
+<br><a href="pdfs/2016/Robert_GeoCongres 2016.pdf">Download (PDF)</a>
+
+<font size="4">
+<b> SIMs 3D: previous, current and future work</b>
+</font>
+Abdoulaye Diakité (TU Delft).
+<br> GeoCongress, 30 June 2016, Zoetermeer (The Netherlands).
+<br><a href="pdfs/2016/Abdou_GeoCongres 2016.pdf">Download (PDF)</a>
+
 <br>
 <font size="5"><b>2015</b></font>
 <br>
