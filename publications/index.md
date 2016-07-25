@@ -13,14 +13,14 @@ permalink: /publications/
 <b>First experiments with the Tango Tablet for indoor scanning.</b>
 </font>
 Abdoulaye A. Diakité and Sisi Zlatanova.
-<br>ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., III-4, 67-72, 2016. 
+<br>ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, III-4, 67-72, 2016. 
 <br><a href="http://doi.org/10.5194/isprs-annals-III-4-67-2016">Download (PDF)</a>
 
 <font size="4">
 <b>Comparison of ZEB1 and Leica C10 indoor laser scanning point clouds.</b>
 </font>
 Beril Sirmacek, Yueqian Shen, Roderik Lindenbergh, Sisi Zlatanova, and Abdoulaye A. Diakité.
-<br>ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., III-1, 143-149, 2016. 
+<br>ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, III-1, 143-149, 2016. 
 <br><a href="http://doi.org/10.5194/isprs-annals-III-1-143-2016">Download (PDF)</a>
 
 <br>
