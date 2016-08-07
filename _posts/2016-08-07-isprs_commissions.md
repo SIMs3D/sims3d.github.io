@@ -16,10 +16,10 @@ The <a href="http://www.isprs2016-prague.com/">XXIII ISPRS congress</a> held in 
 
 <div class="row">
   <div class="col-sm-12 col-md-6">
-    <img src="/img/2016/isprs_com1.jpeg" style='height: 100%; width: 100%; object-fit: contain' />
+    <img src="/img/2016/isprs_com1.JPG" style='height: 100%; width: 100%; object-fit: contain' />
   </div>
   <div class="col-sm-12 col-md-6">
-	<img src="/img/2016/isprs_com2.jpeg" style='height: 100%; width: 100%; object-fit: contain' />
+	<img src="/img/2016/isprs_com2.PNG" style='height: 100%; width: 100%; object-fit: contain' />
   </div>
 </div>
 
