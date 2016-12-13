@@ -10,6 +10,13 @@ permalink: /publications/
 <br>
 
 <font size="4">
+<b>Extraction of the 3D Free Space from Building Model for Indoor Navigation.</b>
+</font>
+Abdoulaye A. Diakité and Sisi Zlatanova.
+<br>ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, IV-2/W1, 241-248, 2016. 
+<br><a href="http://doi.org/10.5194/isprs-annals-IV-2-W1-241-2016">Download (PDF)</a>
+
+<font size="4">
 <b>First experiments with the Tango Tablet for indoor scanning.</b>
 </font>
 Abdoulaye A. Diakité and Sisi Zlatanova.
