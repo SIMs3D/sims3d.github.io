@@ -14,25 +14,25 @@ This page collects all the parallel works related to the SIMs3D Project.
 <b>Automatic space subdivision for multi-storey pathfinding on a 3D point cloud using an octree.</b>
 </font>
 Florian W. Fichtner.
-<br><a href="files/mscproposals/FlorianWillyFichtner_GraduationPlan.pdf">Download (PDF)</a>
+<br><a href="http://resolver.tudelft.nl/uuid:b4c13508-dbcc-4a32-a7b7-9cb22230e0a7">Full thesis (defended in June 2016)</a>
 
 <font size="4">
 <b>3D Path-finding in a voxelized model of indoor environments.</b>
 </font>
 Martijn Koopman.
-<br><a href="files/mscproposals/Martijn Koopman.pdf">Download (PDF)</a>
+<br><a href="http://resolver.tudelft.nl/uuid:13788271-e19d-41e1-b827-fe7535a66281">Full thesis (defended in November 2016)</a>
 
 <font size="4">
 <b>The relation between the computational effort and path length of A* pathfinding in an octree representation of an indoor point cloud.</b>
 </font>
 Olivier Rodenberg.
-<br><a href="files/mscproposals/Olivier_Rodenberg.pdf">Download (PDF)</a>
+<br><a href="http://resolver.tudelft.nl/uuid:fa1444c0-b957-43a3-9a9e-a0a7664bb6c8">Full thesis (defended in June 2016)</a>
 
 <font size="4">
 <b>Indoor Navigation to a moving target.</b>
 </font>
 Tim Nagelkerke.
-<br><a href="files/mscproposals/Tim Nagelkerke - Indoor navigation to a moving target.pdf">Download (PDF)</a>
+<br><a href="http://resolver.tudelft.nl/uuid:b9e42100-1bad-43de-bd1f-87f47779460a">Full thesis (defended in June 2016)</a>
 
 <br>
 
