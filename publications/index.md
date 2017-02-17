@@ -10,6 +10,13 @@ permalink: /publications/
 <br>
 
 <font size="4">
+<b>Valid Space Description in BIM for 3D Indoor Navigation.</b>
+</font>
+Abdoulaye A. Diakité and Sisi Zlatanova.
+<br>International Journal of 3-D Information Modeling (IJ3DIM), 5(3), 1-17. 
+<br><a href="pdfs/2016/diakite_IJ3DIM.pdf">Download (PDF)</a>
+
+<font size="4">
 <b>Extraction of the 3D Free Space from Building Model for Indoor Navigation.</b>
 </font>
 Abdoulaye A. Diakité and Sisi Zlatanova.
