@@ -5,6 +5,53 @@ permalink: /publications/
 ---
 
 <font size="6"><b>Papers</b></font>
+
+<br>
+<font size="5"><b>2017</b></font>
+<br>
+
+<font size="4">
+<b>Spatial subdivision of complex indoor environments for 3D indoor navigation.</b>
+</font>
+Abdoulaye A. Diakité and Sisi Zlatanova.
+<br>International Journal of Geographical Information Science (IJGIS), 1-23. 
+<br><a href="http://dx.doi.org/10.1080/13658816.2017.1376066">Download (PDF)</a>
+
+<font size="4">
+<b>Exploiting Indoor Mobile Laser Scanner Trajectories for Semantic Iterpretation of Point Clouds.</b>
+</font>
+Shayan Nikoohemat, Michael Peter, Sander Oude Elberink, and George Vosselman.
+<br>ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, IV-2-W4, 355-362, 2017. 
+<br><a href="https://doi.org/10.5194/isprs-annals-IV-2-W4-355-2017">Download (PDF)</a>
+
+<font size="4">
+<b>Automatic Generation of Indoor Navigable Space Using a Point Cloud and its Scanner Trajectory.</b>
+</font>
+Bart R. Staats, Abdoulaye A. Diakité, Robert L. Voûte, and Sisi Zlatanova.
+<br>ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, IV-2-W4, 393-400, 2017. 
+<br><a href="https://doi.org/10.5194/isprs-annals-IV-2-W4-393-2017">Download (PDF)</a>
+
+<font size="4">
+<b>Modelling of Indoor Environments Using Lindenmayer Systems .</b>
+</font>
+Michael Peter.
+<br>ISPRS International Archives of Photogrammetry, Remote Sensing & Spatial Information Sciences, XLII-2-W7, 385-390, 2017. 
+<br><a href="https://doi.org/10.5194/isprs-archives-XLII-2-W7-385-2017">Download (PDF)</a>
+
+<font size="4">
+<b>Challenges in Flying Quadrotor Unmanned Aerial Vehicle for 3D Indoor Reconstruction.</b>
+</font>
+Jinjin Yan, Nives Grasso, Sisi Zlatanova, Rob C. Braggaar and Danny B. Marx.
+<br>ISPRS International Archives of Photogrammetry, Remote Sensing & Spatial Information Sciences, XLII-2-W7, 423-430, 2017. 
+<br><a href="https://doi.org/10.5194/isprs-archives-XLII-2-W7-423-2017">Download (PDF)</a>
+
+<font size="4">
+<b>Indoor Modelling from SLAM-Based Laser Sanner: Door Detection to Envelope Reconstruction.</b>
+</font>
+Lucia Díaz-Vilariño, Edward Verbree, Sisi Zlatanova and Abdoulaye A. Diakité.
+<br>ISPRS International Archives of Photogrammetry, Remote Sensing & Spatial Information Sciences, XLII-2/W7, 345-352, 2017. 
+<br><a href="https://doi.org/10.5194/isprs-archives-XLII-2-W7-345-2017">Download (PDF)</a>
+
 <br>
 <font size="5"><b>2016</b></font>
 <br>
