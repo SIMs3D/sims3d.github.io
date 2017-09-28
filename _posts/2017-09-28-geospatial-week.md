@@ -17,9 +17,13 @@ The 2017 edition of the <a href="http://gsw2017.3snews.net/">ISPRS Geospatial We
 
 <br>
 <br>
+<div align="center">
 <img src="/img/2017/shayan_china.jpg" style='height: 70%; width: 70%; object-fit: contain' />
-<br> 
+</div>
+<br>
+<div align="center">
 <img src="/img/2017/shayan_paper.png" style='height: 100%; width: 100%; object-fit: contain' />
+</div>
 <br> 
 <br>
 
