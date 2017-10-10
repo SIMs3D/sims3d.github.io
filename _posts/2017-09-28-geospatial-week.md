@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ISPRS Geospatial Week 2017: price of the best Indoor 3D paper goes to the SIMs3D project!"
+title:  "ISPRS Geospatial Week 2017: Award of the best young author goes to a researcher of the SIMs3D project!"
 categories: news
 date:   2017-09-28
 author: Abdoulaye Diakité
@@ -13,16 +13,21 @@ author: Abdoulaye Diakité
 <img class="img-responsive" src="{{ "/img/2017/banner_wuhan.jpg" | prepend: site.baseurl }}">
 <br>
 
-The 2017 edition of the <a href="http://gsw2017.3snews.net/">ISPRS Geospatial Week</a>, was held in Wuhan (China) from the 18th to the 22nd of September. The event hosted several workshops (including <a href="http://indoor3d.net/2017/">Indoor 3D 2017</a>) and allowed, once again, to gather all the important actors in GIS, academic or profesional, worldwide. Similarly as last year, the SIMs3D project have brought a large contribution to the event with more than five papers and posters. Among them was the contribution of Shayan (see picture below), related to the <a href="http://www.sims3d.net/rl1/">research line 1</a>, who has delivered a remarquable presentation that was rewarded with the price of the best paper <a href="https://doi.org/10.5194/isprs-annals-IV-2-W4-355-2017">(which can be accessed here)</a> . 
+The 2017 edition of the <a href="http://gsw2017.3snews.net/">ISPRS Geospatial Week</a>, was held in Wuhan (China) from the 18th to the 22nd of September. The event hosted several workshops (including <a href="http://indoor3d.net/2017/">Indoor 3D 2017</a>) and allowed, once again, to gather all the important actors in GIS, academic or profesional, worldwide. Similarly as last year, the SIMs3D project have brought a large contribution to the event with more than five papers and posters. Among them was the contribution of Shayan (see pictures below), related to the <a href="http://www.sims3d.net/rl1/">research line 1</a>, who has delivered a remarquable presentation that was rewarded with two awards: the young author of the Indoor 3D workshop as well as the overall award of the best young author (considering the entire conference) <a href="https://doi.org/10.5194/isprs-annals-IV-2-W4-355-2017">(the paper can be accessed here)</a>. 
 
 <br>
 <br>
-<div align="center">
-<img src="/img/2017/shayan_china.jpg" style='height: 70%; width: 70%; object-fit: contain' />
+<div class="row">
+  <div class="col-sm-12 col-md-6">
+    <img src="/img/2017/shayan_china.jpg" style='height: 50%; width: 50%; object-fit: contain' />
+  </div>
+  <div class="col-sm-12 col-md-6">
+	<img src="/img/2017/shayan_china1.png" style='height: 50%; width: 50%; object-fit: contain' />
+  </div>
 </div>
 <br>
 <div align="center">
-<img src="/img/2017/shayan_paper.png" style='height: 100%; width: 100%; object-fit: contain' />
+<img src="/img/2017/shayan_paper.png" style='height: 70%; width: 70%; object-fit: contain' />
 </div>
 <br> 
 <br>
