@@ -19,10 +19,10 @@ The 2017 edition of the <a href="http://gsw2017.3snews.net/">ISPRS Geospatial We
 <br>
 <div class="row">
   <div class="col-sm-12 col-md-6">
-    <img src="/img/2017/shayan_china.jpg" style='height: 70%; width: 70%; object-fit: contain' />
+    <img src="/img/2017/shayan_china.jpg" style='height: 100%; width: 100%; object-fit: contain' />
   </div>
   <div class="col-sm-12 col-md-6">
-	<img src="/img/2017/shayan_china1.png" style='height: 70%; width: 70%; object-fit: contain' />
+	<img src="/img/2017/shayan_china1.png" style='height: 100%; width: 100%; object-fit: contain' />
   </div>
 </div>
 <br>
