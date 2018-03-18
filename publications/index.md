@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 <p><font size="6"><b>Papers</b></font>
   
   
