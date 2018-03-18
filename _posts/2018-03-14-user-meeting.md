@@ -5,4 +5,4 @@ categories: news
 date:   2018-03-14
 author: Liangliang Nan
 ---
-The minutes of the user committee meeting can be found  <a href="Minutes_13742_SIMs3D_14032018.docx"> here </a>.
+The minutes of the user committee meeting can be found  <a href="Minutes_20180314.docx"> here </a>.
