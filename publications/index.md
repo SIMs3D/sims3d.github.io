@@ -6,8 +6,9 @@ permalink: /publications/
 
 <font size="6"><b>Papers</b></font>
 
+
 <br>
-<font size="5"><b>2017</b></font>
+<font size="5"><b>2018</b></font>
 <br>
 
 <font size="4">
@@ -16,6 +17,11 @@ permalink: /publications/
 Abdoulaye A. Diakité and Sisi Zlatanova.
 <br>International Journal of Geographical Information Science (IJGIS), 1-23. 
 <br><a href="http://dx.doi.org/10.1080/13658816.2017.1376066">Download (PDF)</a>
+
+
+<br>
+<font size="5"><b>2017</b></font>
+<br>
 
 <font size="4">
 <b>Exploiting Indoor Mobile Laser Scanner Trajectories for Semantic Iterpretation of Point Clouds.</b>
