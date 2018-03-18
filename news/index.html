@@ -1,12 +1,16 @@
----
-layout: page
-title: News
-permalink: /news/
----
-
-
-{% for post in site.posts %}
-  <h3><small><span class="post-date">{{ post.date | date_to_string }}</span></small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+<p>---
+  layout: page
+  title: News
+  permalink: /news/
+  ---
+  
+  
+  {% for post in site.posts %}</p>
+<p>&nbsp;</p>
+<h3>14 Mar 2018, Twente Safty Campus<br />
+<a href="../meetings/files/meeting20180314/Minutes_13742_SIMs3D_14032018.docx">User Committee Meeting</a></h3>
+<p>&nbsp;</p>
+<h3><small><span class="post-date">{{ post.date | date_to_string }}</span></small><br><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 {% endfor %}
 
 <br>
