@@ -13,12 +13,23 @@ permalink: /publications/
 <p><br>
   
   <font size="4">
+  <b>Semantic Interpretation of Mobile Laser Scanner Point Clouds in Indoor Scenes Using Trajectories</b></font><br>
+   Shayan Nikoohemat, Michael Peter, Sander Oude Elberink, and George Vosselman.
+  <br>
+  Remote Sensing, 1-23, 2018<br>
+  <a href="pdfs/2018/Nikoohemat et al_Trajectories_Sep2018.pdf">Download (PDF)</a></p>
+<p><br>
+
+  <font size="4">
   <b>Spatial subdivision of complex indoor environments for 3D indoor navigation</b></font><br>
   Abdoulaye A. Diakité and Sisi Zlatanova.
   <br>
   International Journal of Geographical Information Science (IJGIS), 1-23, 2018<br>
   <a href="http://dx.doi.org/10.1080/13658816.2017.1376066">Download (PDF)</a>  </p>
 <p><br>
+
+
+
   <font size="5"><b>2017</b></font>  </p>
 <p><br>
   
