@@ -4,12 +4,34 @@ title: Meetings Calender & Materials
 permalink: /meetings/
 ---
 
+
+<p><font size="6"><b>User Committee Meeting, 16th of November 2018</b></font><br />
+</p>
+<p><font size="4"><b>
+Indoor 3D Reconstruction from Laser Scanner Data - Smart Indoor Models in 3D (SIMs3D)
+</b> </font> <br />
+  Shayan Nikoohemat<br />
+<a href="files/meeting20181116/NWO(stw) project presentation_16th_Nov_2018.pptx">Download (PPT)</a> </p>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
 <p><font size="6"><b>User Committee Meeting, 14th of March 2018</b></font><br />
 </p>
 <p><font size="4"><b>Indoor 3D Reconstruction from Laser Scanner Data</b> </font> <br />
   Shayan Nikoohemat<br />
 <a href="files/meeting20180314/NWO(stw) project presentation_14th_March_2018.pptx">Download (PPT)</a> </p>
 <p>&nbsp;</p>
+
+
+
+
+
+
 <p><font size="6"><b>User Committee Meeting, 18th of March 2016</b></font>
   
   <br>
